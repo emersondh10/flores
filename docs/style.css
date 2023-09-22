@@ -17,7 +17,7 @@ body {
   justify-content: center;
 
   position: relative;
-  background-color: #000; /* Fondo negro para toda la página */
+  background-color: #C23B22; /* Fondo negro para toda la página */
 
   /* Agrega una animación de pulsación */
   animation: pulsate 2s infinite;
